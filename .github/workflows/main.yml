@@ -1,6 +1,4 @@
 name: "Latest tag from master branch"
-env:
-  DOCKERHUB_REPOSITORY: guilhermewolf/go-socks5-proxy
 
 on:
   pull_request:
